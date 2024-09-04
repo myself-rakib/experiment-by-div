@@ -1,0 +1,531 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+.a{
+    width: 90%;
+    height: 200px;
+    text-align: center;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 144);
+    
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136, 255);
+}
+.a5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.b{
+    width: 90%;
+    height: 200px;
+    text-align: center;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-end;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 144);
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136, 255);
+}
+.a5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.c{
+    width: 90%;
+    height: 200px;
+    text-align: center;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-start;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 144)
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136, 255);
+}
+.a5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+   text-align: center;
+   color: brown;
+}
+.d{
+   width: 90%;
+   height: 200px;
+   text-align: center;
+   background-color: black;
+   margin-right: 40px;
+   margin-left: 40px;
+   margin-top: 40px;
+   display: flex;
+   justify-content: space-between;
+}
+.a1{
+   width: 100px;
+   height: 100px;
+   background-color: aqua;
+}
+.a2{
+   width: 100px;
+   height: 100px;
+   background-color: rgb(255, 85, 0);
+ }  
+ .a3{
+   width: 100px;
+   height: 100px;
+   background-color: rgb(255, 0, 144);  
+} 
+ .a4{
+   width: 100px;
+   height: 100px;
+   background-color: rgb(0, 136, 255);
+ }
+.a5{
+   width: 100px;
+   height: 100px;
+   background-color: rgb(255, 0, 204);
+ }
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.e{
+    width: 90%;
+    height: 200px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 144);
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136, 255);
+}
+.a5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.f{
+    width: 90%;
+    height: 200px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 144);
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136, 255);
+}
+.a5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.g{
+    width: 90%;
+    height: 700px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+
+    display: flex;
+    flex-direction: column;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136,255);
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.h{
+    width: 90%;
+    height: 700px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136,255);
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.i{
+    width: 90%;
+    height: 700px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136,255);
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.j{
+    width: 90%;
+    height: 700px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 85, 0);
+}
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136,255);
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.k{
+    width: 90%;
+    height: 700px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+    display: flex;
+    justify-content: space-around;
+}
+.k1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.k2{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    background-color: rgb(255, 85, 0);
+}
+.k3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 136,255);
+}
+.k4{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    background-color: rgb(255, 0, 204);
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.l{
+    width: 90%;
+    height: 700px;
+    background-color: black;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.l1{
+    width: 100px;
+    height: 100px;
+    align-self: end;
+    background-color: rgb(255, 0, 0);
+}
+.l2{
+    width: 100px;
+    height: 100px;
+    align-self: start;
+    background-color: rgb(255, 85, 0);
+}
+.l3{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    background-color: rgb(0, 136,255);
+}
+.l4{
+    width: 100px;
+    height: 100px;
+    align-self: self-end;
+    background-color: rgb(255, 251, 0);
+}
+.l5{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    background-color: rgb(253, 126, 227);
+}
+.l6{
+    width: 100px;
+    height: 100px;
+    align-self: start;
+    background-color: rgb(255, 0, 204);
+}
